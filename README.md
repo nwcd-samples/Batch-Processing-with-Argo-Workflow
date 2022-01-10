@@ -1,5 +1,13 @@
 # Batch-Processing-with-Argo-Workflow (中文版)
 
+## 免责声明
+
+建议测试过程中使用此方案，生产环境使用请自行考虑评估。
+
+当您对方案需要进一步的沟通和反馈后，可以联系 nwcd_labs@nwcdcloud.cn 获得更进一步的支持。
+
+欢迎联系参与方案共建和提交方案需求, 也欢迎在 github 项目 issue 中留言反馈 bugs。
+
 ## Batch Processing
 在本章中，我们将使用 Kubernetes 和 [Argo](https://argoproj.github.io/) 部署常见的批处理场景。 
 
